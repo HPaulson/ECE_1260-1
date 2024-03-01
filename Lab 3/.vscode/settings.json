@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ex": "elixir",
+        "*.rs": "rust",
+        "stdio.h": "c"
+    }
+}
