@@ -39,9 +39,6 @@ for (double t = 0; t <= 10.0; t += 0.1)
     fprintf(fp2, "%4.1f  %9.6f\n", t, sum);
   };
 
-
-
-   
   /******** END OF CHANGES ******/
     
   // Flush file buffers and close our open files. 
